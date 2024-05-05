@@ -1,5 +1,3 @@
--- THIS IS THE ORIGINAL THIS IS IT PANSIT
-
 /*
 Project Summary:
 This SQL project focuses on data preparation and exploratory data analysis of MavenTech CRM data.
@@ -88,8 +86,6 @@ SELECT
 FROM sales_pipeline 
 GROUP BY deal_stage;
 
-
-USE [Maven Tech Sales Performance Analysis];
 
 /*
     Exploratory Data Analysis Section
